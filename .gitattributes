@@ -1,0 +1,6 @@
+# Los binarios no deben pasar por conversion de fin de linea.
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.ico  binary

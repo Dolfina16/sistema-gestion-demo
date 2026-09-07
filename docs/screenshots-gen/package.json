@@ -1,0 +1,12 @@
+{
+  "name": "screenshots-gen",
+  "private": true,
+  "type": "module",
+  "description": "Regenera las capturas anotadas del manual de uso desde la app en modo demo",
+  "scripts": {
+    "gen": "node gen.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
